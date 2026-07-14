@@ -1,0 +1,8 @@
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
