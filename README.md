@@ -1,4 +1,5 @@
 # GamingMode
+## PROJETO 100% BRASILEIRO
 
 Script em Bash para otimizar o desempenho do Debian durante jogos.
 
