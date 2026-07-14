@@ -1,5 +1,6 @@
 # GamingMode
 ## PROJETO 100% BRASILEIRO
+### Caso encontre algum erro, entre em contato comigo no meu Discord: mrkaboom07.
 
 Script em Bash para otimizar o desempenho do Debian durante jogos.
 
